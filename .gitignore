@@ -1,0 +1,26 @@
+# Build artifacts
+/build/
+/bin/
+/obj/
+
+# Compiled files
+*.o
+*.a
+*.so
+*.exe
+*.out
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.sublime*
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
